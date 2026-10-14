@@ -1,0 +1,13 @@
+{
+  "name": "manager-library-tool",
+  "version": "1.0.0",
+  "description": "Herramienta de sembrado de datos de demostración para Manager Library API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["sena", "adso", "sdd", "seeder", "library"],
+  "author": "Aprendiz SENA ADSO 3145555",
+  "license": "MIT"
+}
